@@ -29,6 +29,8 @@ To populate the database with mock data, run the following command:
 ### Running the Application
 
 Start the Express server:
+  - npm run dev ( nodemon app.js)
+  - npm start ( node app.js ) 
 
 The server will be running at http://localhost:3000 (or a different port if specified).
 
